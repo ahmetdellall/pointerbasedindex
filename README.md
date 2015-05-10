@@ -1,0 +1,2 @@
+# pointerbasedindex
+index erişim operatoru
