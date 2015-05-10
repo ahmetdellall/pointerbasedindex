@@ -56,3 +56,5 @@ List::ListNode *List::find(int index) const// aramak istedgimiz indx yada isteni
         }
 }
 }
+void List::insert(int index, const ListItemType& newItem)
+    throw(ListIndexOutOfRangeException, ListException) // istenillmedigi icin eklemedim 
